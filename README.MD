@@ -8,3 +8,5 @@
 ---
 
 **INSPIRED BY THE STUPID [LOWERCASE FRAMEWORK](HTTPS://GITHUB.COM/BULLGIT/LOWERCASE-FRAMEWORK)**
+
+[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)](http://www.wtfpl.net/) **© 2015 WTFPL – DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.**
